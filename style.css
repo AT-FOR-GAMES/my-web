@@ -109,20 +109,3 @@ footer {
   color: #aaa;
 }
 
-.whatsapp {
-  position: fixed;
-  bottom: 20px;
-  left: 20px;
-  background: #25d366;
-  color: white;
-  font-size: 22px;
-  padding: 12px 16px;
-  border-radius: 50%;
-  text-decoration: none;
-  box-shadow: 0 0 15px #25d366;
-  transition: transform 0.3s;
-}
-
-.whatsapp:hover {
-  transform: scale(1.1);
-}
